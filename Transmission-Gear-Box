@@ -1,0 +1,52 @@
+# Disclaimer
+  This project was developed as a form of evaluation for the subject Machine Elements II in the Mechanical Engineering course at the Federal University of Amazonas. The two authors were Rodrigo Nascimento and myself, Flávio Dias.
+  
+
+# TWO-SPEED TRANSMISSION GEAR BOX
+
+## INTRODUCTION
+  Life on earth depends on energy and work. Since ancient times, mankind has looked for ways to generate, transmit, and store work, to make everyday activities easier, such as grinding grain using wind power in medieval times, or to perform some extraordinary feats, such as racing cars that go from 0 to 100 km/h in two seconds. Whatever the application, it is essential to change the transmission ratio of the system, that is, to adapt the way this energy is used so that it has more torque when it is needed and more speed when it is not.
+
+  This paper aims to design one of the methods that allows this flexibility, the gearbox, a set of machine elements whose function is, as the name suggests, to transmit speed, force, torque and power in the desired proportions. Mechanical energy from the source is conducted through a shaft (driven shaft) and through a series of gear ratios this mechanical energy is supplied to the output shaft (driven shaft).
+
+  The main advantage of this transmission model is the ability to transmit large magnitudes of power ( in the case of "heavier" applications) with high mechanical efficiency and precise synchronization, and it can be built from durable materials without the need for periodic adjustments.
+  
+  The design of a complete gearbox consists of defining the dimensions of all elements (listed below), material specifications, and analysis of forces and resistances. Based on the understanding of science and mathematics, combined with the knowledge of empirical data together with "engineering judgment", to develop the design as a professional solution. Some of the most common elements in this type of design are:
+  
+  ( - ) The gears, responsible for transmitting the rotational motion from one shaft to the other. They are generally more expensive than chains and belts, since manufacturing costs increase with precision - required in the combination of high speeds, loads, and low noise levels.
+  ( - ) The shafts, which transmit the power to the elements attached to it (pulleys, cams, and - in this case - gears), are generally long with circular section and supported by bearings.
+  ( - ) The bearings, which support rolling elements, the shaft, and the outermost components are separated by balls or rollers that allow relative movement between them.
+  ( - ) The fastening elements, with the purpose of coupling neighboring components, allow the transmission of torque and speed, and also serve as a fuse in case of overload.
+  
+  Besides the correct dimensional analysis, the material is also of fundamental importance, because it is through the material that the internal forces of deformation and resistance are tied. The optimal choice makes the manufacturing process easier to perform and reduces the system cost. Therefore, it is important to balance these variables.
+  
+  Since different approaches can be taken to achieve the same result, caution in component sizing and decision-making must be carefully considered so that the design, although not the only one and perhaps not the best, is acceptable within the limits of cost, manufacturing time, and dimensions.
+  
+  The shifting concept in this work was based on a formula 1 car transmission model, and the design was developed knowing only the graphs of the speed vs torque/engine power ratios, overall efficiency of the transmission system, wheel/tire dimensions, and inertia characteristics of the vehicle to be driven.
+  
+  The details of the decision-making (and its motivations) for each stage of the project have been described in the following chapters, along with the figures used, organized mostly in tables for ease of viewing.
+  
+  
+  ## OBJECTIVES
+  
+  The main objective is to design a two-speed gearbox, with at least two gear pairs, and all its components (housing, gears, shafts, fasteners - with the exception of the bearings, chosen from a catalog) from the requirements given, making design decisions independently and, when necessary, using auxiliary software in order to facilitate the iterative calculations.
+  
+  The goal set was to design as few components as possible, using the cheapest materials (in this case alloy steel), with the smallest possible dimensions (without ignoring desirable profiles, as in the case of the staggered shafts) and to achieve acceptable speeds and torques at the output of the system. With the construction and assembly of the components made as simple as possible.
+  
+  The following sequenced steps below were followed for sizing the speed ratios and component planning:
+  ( 1 ) Establish appropriate gear ratios for the system, taking into account the limitations of the engine providing reasonable speed and torque output for a vehicular application;
+  ( 2 ) Design the gears that can withstand stresses without fatigue failure for an established lifetime;
+  ( 3 ) Design the shafts where the gears will be coupled, also following the fatigue resistance criteria;
+  ( 4 ) Define the requirements for the bearings (based on the previous steps) and select them from a commercial catalog;
+  ( 5 ) Design the fasteners or the type of fit between bearings/gears and shafts;
+  ( 6 ) CAD design of all components.
+  
+  
+   ## CALCULATION MEMORIAL
+   
+   ### SPEED CHANGE
+   
+   
+  
+  
+  
