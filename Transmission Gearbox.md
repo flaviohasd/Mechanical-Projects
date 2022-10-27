@@ -1,4 +1,4 @@
-# Disclaimer
+## Disclaimer
   This project was developed as a form of evaluation for the subject Machine Elements II in the Mechanical Engineering course at the Federal University of Amazonas in july 2021. The two authors were Rodrigo Nascimento and myself, Flávio Dias.
 
 # TWO-SPEED TRANSMISSION GEARBOX
