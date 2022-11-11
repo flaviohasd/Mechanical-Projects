@@ -244,7 +244,7 @@ $$ 𝑑= {16𝑛 \over 𝜋} ({ {1 \over 𝑆𝑛} [4(𝐾_{𝑓}𝑀_{𝑎})^{2
 
 Being:
 
-$$ 𝐾_{𝑓}=1+(𝐾_{𝑡}−1)𝑞
+$$ 𝐾_{𝑓}=1+(𝐾_{𝑡}−1)𝑞 $$
 
 The tables whose factors were used are shown in Appendix B.
 
