@@ -232,7 +232,7 @@ Ftool[^2] software was used to assist in the bending moment and tilt/deflection 
 
 To investigate the necessary strength at each point of interest of the shafts, and define the minimum required diameter, Goodman's Deflection Energy criterion was used, whose equations used were:
 
-- Resistência à fadiga:
+- Fatigue resistance:
 
 $$ 𝑆𝑛= 𝑆𝑛^{′}𝐶_{𝐿} 𝐶_{𝐺} 𝐶_{𝑆} 𝐶_{𝑇} 𝐶_{𝑅} $$
 
